@@ -1,17 +1,5 @@
 # RECOMMENDATION-SYSTEM
 
-COMPANY: CodTech IT Solutions
-
-NAME: Yash Kumar
-
-INTERN ID: CT06DG602
-
-DOMAIN: Machine Learning
-
-DURATION: 6 Weeks
-
-MENTOR: Neela Santosh
-
 This project uses a content-based recommender system built using the TMDB 5000 Movies Dataset.
 
 ### 📁 Dataset
